@@ -10,3 +10,15 @@ To run the jupyter notebook:
 7. Run all the cells and wait for the training to complete. 
 
 To see the generated output open the folders: Exp_anime, Exp_Simpsons and Exp_celebA.
+
+
+The images have been taken from the following sources
+
+1. Simpsons
+  K. Tokis, “Simpsons faces,” Sep 2018. [Online]. Available: https://www.kaggle.com/datasets/kostastokis/simpsons-faces
+2. anime
+  S. Churchill, “Anime face dataset,” Oct 2019. [Online]. Available: https://www.kaggle.com/datasets/splcher/animefacedataset
+3. celebA
+  Z. Liu, P. Luo, X. Wang, and X. Tang, “Deep learning face attributes in the wild,” in Pro-
+ceedings of International Conference on Computer Vision (ICCV), December 2015.
+
